@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529034137 source:d:\beijing normal university\learn\second term of freshman\c\大作业\学生成绩统计程序\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
